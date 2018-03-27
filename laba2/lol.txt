@@ -1,0 +1,4 @@
+100 vitaminA 849 1
+200 vitaminB 20 1
+300 vitaminC 300 0
+400 vitaminD 117 0
